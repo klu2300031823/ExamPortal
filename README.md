@@ -4,14 +4,14 @@ Admin and User
 Admin Can Do the following Operations:-
 
 
-Add a Question
-Delete a Question
-Edit a Question
-View Posted Questions
-View Users Marks
+--Add a Question
+--Delete a Question
+--Edit a Question
+--View Posted Questions
+--View Users Marks
 
 User Can Do the following Operations:-
-Take a exam with a specified time limit
-See Instant Results
+--Take a exam with a specified time limit
+--See Instant Results
 
 It it MYSQL compatible and you can execute in SpringBoot Tool Suite and Vite+React for Frontend
